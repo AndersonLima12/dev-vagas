@@ -49,7 +49,7 @@
 ## - Imagem do projeto...😁
 
 <h1 align="center">
-  <img align="center" width="1100em" height="500em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/dev-quiz/blob/master/src/img/Project.png" />
+  <img align="center" width="1100em" height="500em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/dev-vagas/blob/master/public/vagasDev.png" />
 </h1>
 
 ### Para você que ainda não sabe ? 👨🏻‍💻
