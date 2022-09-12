@@ -1,58 +1,66 @@
-Getting Started with Create React App
+<div align="center">
+<img src="https://img.shields.io/github/forks/AndersonLima12/dev-vagas"/>
+<img src="https://img.shields.io/github/stars/AndersonLima12/dev-vagas"/>
+</div>
 
-This project was bootstrapped with Create React App.
-Available Scripts
+<br/>
 
-In the project directory, you can run:
-npm start
+<h1 align="center"> Dev Vagas 👨🏻‍💻 </h1> 
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+<p align="center"> <strong><em>Projeto com objetivo de reunir vagas front-end contidas nos issues de repositórios que estão no github. Projeto usando a API do github.</em></strong> ❗️ 📚 👨🏻‍💻 </p>
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-npm test
+<br/>
 
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
-npm run build
+<div align="center"> 
+<img src= "https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndersonLima12")]"https://github.com/AndersonLima12"/>
+<img src= "https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-nunes-developer")]"https://www.linkedin.com/in/anderson-nunes-developer/"/>  
+</div>  
 
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!--<img src= "https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos"/>
+<img src= "https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)"/>
+<img src= "https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com"/>
+</div> -->
+  
+<br/>
+  
+## - Objetivo do projeto ! 🤔
+ <strong>Dev Vagas</strong> é um projeto onde contém vagas para desenvolvedores front-end, trazendo melhor experiência para quem está buscando o primeiro emprego ou até mesmo algo melhor. Este é um projeto 100% responsivo.📱
+ 
+## - Acesse o projeto aqui: 🚀
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+## https://vagas-dev.netlify.app/
+ 
+## - 💻 Introdução ao Create React App 
 
-See the section about deployment for more information.
-npm run eject
+#### 🔗 Este projeto foi inicializado com o Create React App. Scripts Disponíveis  <br/>
+#### 1° No diretório do projeto, você pode executar: npm install || yarn install. <br/>
+#### 2° executar: npm start || yarn start <br/>
+#### 3° Executa o aplicativo no modo de desenvolvimento. Abra http://localhost:3000 para visualizá-lo em seu navegador. A página será recarregada quando você fizer alterações. Você também pode ver erros de lint no console. teste npm
 
-Note: this is a one-way operation. Once you eject, you can't go back!
+## &nbsp; Tecnologias usadas. 🛠
 
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=1572B6)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=1572B6)&nbsp;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-Learn More
+## - Imagem do projeto...😁
 
-You can learn more in the Create React App documentation.
+<h1 align="center">
+  <img align="center" width="1100em" height="500em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/dev-quiz/blob/master/src/img/Project.png" />
+</h1>
 
-To learn React, check out the React documentation.
-Code Splitting
+### Para você que ainda não sabe ? 👨🏻‍💻
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-Analyzing the Bundle Size
+- **HTML:** É uma linguagem de marcação utilizada na construção de páginas na Web.
+- **CSS:** Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
+- **Javascript:** JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+- **React Js:** O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.
+- **TypeScript:** TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
+- **API:** As APIs são um conjunto de padrões que fazem parte de uma interface e que permitem a criação de plataformas de maneira mais simples e prática para desenvolvedores. A partir de APIs é possível criar softwares, aplicativos, programas e plataformas diversas.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-npm run build fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<div align="center">
+<br/> <br/> Feito com ❤️ por Anderson Lima 👋🏽 Entre em contato!
+</div>
